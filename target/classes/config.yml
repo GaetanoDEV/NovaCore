@@ -1,0 +1,18 @@
+# IMPOSTAZIONI GENERALI
+
+SpawnLocation:
+  world: ""
+  x: ""
+  y: ""
+  z: ""
+
+SpawnOnJoin: true
+SpawnOnDeath: false
+SaveBackLocationOnQuit: true
+
+DefaultPlayerHomes: 2
+VipPlayerHomes: 10
+
+
+# VERSIONE DEL PLUGIN
+version: "1.0"

@@ -1,0 +1,61 @@
+# MESSAGGI
+
+setspawn-message: "&b&lSpawn impostato correttamente"
+spawn-notset: "&cIl punto di Spawn non è impostato"
+spawnworld-notexist: "&cIl mondo dello Spawn non esiste"
+spawn-teleport: "&b&lSei stato teletrasportato allo Spawn."
+
+reload: "&a&lConfigurazione ricaricata..."
+help-reload: "&3&lRicarica la Configurazione"
+help-spawn: "&3&lTeletrasportati allo Spawn"
+help-setspawn: "&3&lImposta lo Spawn"
+help-mutechat: "&3&lMuta/Smuta la Chat"
+help-broadcast: "&3&lInvia un broadcast alla Chat"
+help-back: "&3&lTorna alla posizione di morte"
+help-sethome: "&3&lImposta una Home"
+help-delhome: "&3&lElimina una Home"
+help-home: "&3&lTorna ad una Home"
+help-gm: "&3&lCambia la tua modalità"
+help-fly: "&3&lAbilita/Disabilita la Fly"
+help-setwarp: "&3&lImposta un Warp"
+help-delwarp: "&3&lElimina un Warp"
+help-warp: "&3&lTeletr. ad un Warp"
+
+chat-muted: "&cLa chat è attualmente mutata!"
+chat-nowmuted: "&cLa chat è stata mutata!"
+chat-unmuted: "&aLa chat è stata smutata!"
+
+broadcast-nomessage: "&cDevi specificare un messaggio."
+broadcast-prefix: "&b&lAnnuncio &7» "
+
+back-noworld: "&cLa posizione non è valida"
+back-nolocation: "&cNon esiste una posizione salvata"
+back-teleport: "&bSei stato teletrasportato indietro!"
+
+sethome-specificname: "&cSpecifica il nome della tua Home"
+sethome-maxreached: "&cHai raggiunto il massimo delle Home che puoi impostare"
+sethome-alreadyexist: "&cHai già una Home con questo nome"
+sethome-set: "&bHome impostata con successo"
+
+delhome-homename: "&cDevi specificare un nome della Home da eliminare"
+delhome-notexist: "&cLa home specificata non esiste"
+delhome-removed: "&bHome eliminata correttamente"
+
+home-notexist: "&cQuesta Home non esiste"
+home-homename: "&cSpecifica il nome di una Home"
+home-teleported: "&bSei stato teletrasportato alla Home!"
+
+gm-nospecific: "&cSpecifica una modalità"
+gm-specific: "&bModalità di Gioco impostata su"
+
+fly-enabled: "&bHai attivato la Fly"
+fly-disabled: "&cHai disattivato la Fly"
+
+warp-nospecific: "&cSpecifica il nome del Warp"
+warp-teleported: "&bSei stato teletrasportato al Warp indicato."
+warp-notexist: "&cIl warp specificato non esiste."
+setwarp-created: "&b&lWarp impostato con successo."
+delwarp-deleted: "&bWarp eliminato con successo."
+
+no-premission: "&cNon hai il permesso di eseguire il comando."
+

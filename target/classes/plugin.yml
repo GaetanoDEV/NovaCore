@@ -1,0 +1,82 @@
+name: NovaCore
+version: '1.0-SNAPSHOT'
+main: it.gaetanodev.novacore.NovaCore
+api-version: '1.20'
+commands:
+  setspawn:
+    usage: /setspawn
+    description: Set the spawn
+    permission: novacore.admin
+
+  spawn:
+    usage: /spawn
+    description: Teleport to spawn
+    permission: novacore.command.spawn
+
+  novacore:
+    description: NovaCore
+    permission: novacore.admin
+
+  mutechat:
+    description: Muta/Smuta chat
+    permission: novacore.lockchat.bypass
+
+  broadcast:
+    description: Broadcast Command
+    permission: novacore.command.broacast
+
+  back:
+    description: Back on Death
+    permission: novacore.command.back
+
+  sethome:
+    description: Sethome command
+    permission: novacore.command.sethome
+
+  delhome:
+    description: Delhome command
+    permission: novacore.command.delhome
+
+  home:
+    description: Home command
+    permission: novacore.command.home
+
+  gm:
+    description: Cambia la modalità di gioco.
+    usage: /<command> [modalità]
+  gms:
+    description: Imposta la modalità Survival.
+    usage: /<command>
+    permission: novacore.gm.survival
+  gmc:
+    description: Imposta la modalità Creative.
+    usage: /<command>
+    permission: novacore.gm.creative
+  gmsp:
+    description: Imposta la modalità Spectator.
+    usage: /<command>
+    permission: novacore.gm.spectator
+  gma:
+    description: Imposta la modalità Adventure.
+    usage: /<command>
+    permission: novacore.gm.adventure
+
+  fly:
+    description: Attiva/Disattiva la Fly
+    usage: /fly
+    permission: novacore.command.fly
+
+  setwarp:
+    description: Imposta un Warp
+    usage: /setwarp <nome>
+    permission: novacore.command.setwarp
+
+  warp:
+    description: Lista Warps
+    usage: /warp <nome>
+    permission: novacore.command.warp
+
+  delwarp:
+    description: Elimina un warp
+    usage: /delwarp <nome>
+    permission: novacore.command.delwarp
