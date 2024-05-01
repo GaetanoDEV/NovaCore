@@ -84,6 +84,11 @@ public final class NovaCore extends JavaPlugin {
         // REGISTRA IL MESSAGES
         messages = new Messages(this);
 
+        // METRICS
+        int pluginId = 21752; // <-- Replace with the id of your plugin!
+        Metrics metrics = new Metrics(this, pluginId);
+
+
     }
 
 
