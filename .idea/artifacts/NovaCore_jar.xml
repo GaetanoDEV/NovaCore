@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="NovaCore:jar">
-    <output-path>$PROJECT_DIR$/../Server Minecraft/plugins</output-path>
+    <output-path>$PROJECT_DIR$/../../../Server Minecraft/plugins</output-path>
     <root id="archive" name="NovaCore.jar">
       <element id="module-output" name="NovaCore" />
     </root>
